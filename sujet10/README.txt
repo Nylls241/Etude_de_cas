@@ -1,3 +1,5 @@
+Tout d'abord se déplacer dans le répertoire sujet10/ (cd sujet10/)
+
 Pour compiler la version originale : make OPT=NOOPT
 Pour compiler la première version optimisée : make OPT=OPT1
 Pour compiler la seconde version optimisée : make OPT=OPT2
@@ -19,3 +21,19 @@ Pour exécuter avec MAQAO :
 maqao oneview -R1 -- ./measure 40 15 100
 
 + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - +
+
++ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - +
+
+En considerant le cache L2 : 
+
+
++ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - +
+
++ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - +
+
+En considerant le cache L3 : 
+
+
++ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - +
+
+
