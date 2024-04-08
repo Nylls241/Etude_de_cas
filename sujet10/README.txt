@@ -6,7 +6,7 @@ Pour compiler la seconde version optimisée : make OPT=OPT2
 
 + - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - +
 
-En considerant le cache L1 : 
+En considerant le cache L1, avec une taille de 40: 
 
 Pour vérifier la sortie avec une taille 40 et l'enregistrer dans out.txt :
  ./check 40 out.txt
